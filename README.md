@@ -7,7 +7,7 @@
 </h1>
 
 <h5 align="center">
-  <code><a href=" " title="LinkedIn Profile"><img width="22" src="https://cdn.simpleicons.org/linkedin/0077B5"> LinkedIn</a></code>
+  <code><a href=" " title="LinkedIn Profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>
   <code><a href=" " title="HackerRank Profile"><img width="22" src="https://cdn.simpleicons.org/hackerrank/2EC866"> HackerRank</a></code>
   <code><a href=" " title="Stack Overflow Profile"><img width="22" src="https://cdn.simpleicons.org/stackoverflow/FE7A16"> Stack Overflow</a></code>
   <code><a href=" " title="Instagram Profile"><img width="22" src="https://cdn.simpleicons.org/instagram/E4405F"> Instagram</a></code>
