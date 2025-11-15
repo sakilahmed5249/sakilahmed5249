@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sakilahmed5249.sakilahmed5249">
+
 <h1 align="center">
   <a href="https://github.com/sakilahmed5249">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+SAKIL+AHMED....;Nice+to+meet+you!&center=true&size=30">
