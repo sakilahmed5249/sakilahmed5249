@@ -77,3 +77,15 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+
+<div width="100%" align="center">
+    <br>
+<p align="center"> My new project repositories will be here soon! </p>
+<br>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<h4 align="center">
+  <a href="https://github.com/sakilahmed5249?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
