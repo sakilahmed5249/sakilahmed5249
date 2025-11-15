@@ -82,14 +82,9 @@
 
 <div width="100%" align="center">
     <a href="https://github.com/sakilahmed5249/sakilahmed5249" title="My Profile README">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sakilahmed5249&repo=sakilahmed5249&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sakilahmed5249&repo=sakilahmed5249&theme=react&border_color=61dafb&border_radius=10"></a></div>
 <br/><br/><br/><br/><br/><br/>
 
-<h4 align="center">
-  <a href="https://github.com/new" title="Create new repo">Create a New Project!</a>
-</h4>
 <h4 align="center">
   <a href="https://github.com/sakilahmed5249?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
