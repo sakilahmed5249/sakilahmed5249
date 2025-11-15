@@ -46,9 +46,21 @@
   <img title="JSON" height="25" src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white">
   <img title="GitHub" height="25" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img title="MySQL" height="25" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img title="npm" height="25" src="httpsm://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 </p>
 <hr>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=sakilahmed5249&theme=react&border=61dafb&hide_border=true" alt="sakilahmed5249" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+  <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=sakilahmed5249&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
