@@ -80,8 +80,6 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
 <div width="100%" align="center">
 <a href="https://github.com/sakilahmed5249/sakilahmed5249" title="My Profile README">
   <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sakilahmed5249&repo=sakilahmed5249&theme=react&border_color=61dafb&border_radius=10"></a>
