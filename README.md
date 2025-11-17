@@ -50,26 +50,29 @@
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=sakilahmed5249&theme=react&border=61dafb&hide_border=true" alt="sakilahmed5249" />
+    </a>
 
-<div style="display:flex; gap:20px; justify-content:center; align-items:center; flex-wrap:wrap; margin-top:1rem;">
- <a href="https://github.com/sakilahmed5249" title="Go to my GitHub profile">
-  <img
-    src="https://streak-stats.demolab.com/?user=sakilahmed5249&theme=react&hide_border=true&border_radius=4"
-    alt="GitHub Streak for sakilahmed5249"
-    loading="lazy"
-    style="max-width:100%; height:auto; display:block; border-radius:4px;"
-  />
-</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=sakilahmed5249&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakilahmed5249&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+  <br>
 
-  <a href="https://github.com/sakilahmed5249" title="Go to my GitHub profile" rel="noopener noreferrer" style="text-decoration:none;">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Sakil78&show_icons=true&theme=react&hide_border=true"
-      alt="GitHub general stats for Sakil"
-      loading="lazy"
-      style="width:390px; max-width:45vw; height:auto; display:block; border-radius:12px; box-shadow:0 8px 20px rgba(0,0,0,0.08);"
-    />
-  </a>
-</div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakilahmed5249&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
+<hr>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
