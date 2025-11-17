@@ -52,15 +52,14 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <div style="display:flex; gap:20px; justify-content:center; align-items:center; flex-wrap:wrap; margin-top:1rem;">
-  <!-- Link to YOUR GitHub profile so clicking these images goes to your profile -->
-  <a href="https://github.com/sakilahmed5249" title="Go to my GitHub profile" rel="noopener noreferrer" style="text-decoration:none;">
-    <img
-      src="https://streak-stats.demolab.com/?user=Sakil78&theme=react&hide_border=true"
-      alt="GitHub streak stats for Sakil"
-      loading="lazy"
-      style="width:390px; max-width:45vw; height:auto; display:block; border-radius:12px; box-shadow:0 8px 20px rgba(0,0,0,0.08);"
-    />
-  </a>
+ <a href="https://github.com/sakilahmed5249" title="Go to my GitHub profile">
+  <img
+    src="https://streak-stats.demolab.com/?user=sakilahmed5249&theme=react&hide_border=true&border_radius=4"
+    alt="GitHub Streak for sakilahmed5249"
+    loading="lazy"
+    style="max-width:100%; height:auto; display:block; border-radius:4px;"
+  />
+</a>
 
   <a href="https://github.com/sakilahmed5249" title="Go to my GitHub profile" rel="noopener noreferrer" style="text-decoration:none;">
     <img
